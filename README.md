@@ -14,7 +14,7 @@
 <a href="#5.3">5.3 Inference result</a><br>
 <a href="#6">6 Evaluation</a><br>
 <a href="#6.1">6.1 Evaluation script</a><br>
-<a hrefs="#6.2">6.2 Evaluation result</a><br>
+<a href="#6.2">6.2 Evaluation result</a><br>
 
 <h2>
 <a id="1">1 EfficientNetV2 Gastrointestinal Cancer MSI MSS Images Classification</a>
@@ -74,7 +74,7 @@ The dataset <b>tcga_coad_msi_mss</b> has the following three directories:<br>
 └─val
 </pre>
     
-For simplicity, we use test and train sets. Please those directories under
+For simplicity, we use test and train sets. Please copy those directories under
 <b>./projects/Gastrointestinal-Cancer/MSIMUT_MSS_Images</b> directory as shown below:<br>
 
 <pre>
