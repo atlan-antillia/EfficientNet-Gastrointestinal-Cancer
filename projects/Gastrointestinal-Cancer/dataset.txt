@@ -1,0 +1,10 @@
+The orignal MSIMUT MSS image dataset used here has been taken from the following web site:
+
+https://www.kaggle.com/code/linjustin/cnn-keras/data
+
+See also:
+
+https://zenodo.org/record/2530835#.YxRox3ZBy3A
+
+assignment of patients to either "MSS" (microsatellite stable) or 
+"MSIMUT" (microsatellite instable or highly mutated)
